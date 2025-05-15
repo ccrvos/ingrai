@@ -1,0 +1,9 @@
+langchain-core
+langchain-openai
+langgraph==0.4.3
+langgraph-checkpoint
+langgraph-checkpoint-postgres
+psycopg
+psycopg-pool
+streamlit
+python-dotenv
