@@ -1,5 +1,7 @@
 # ingrai - 🍳 Ingredient Tracker Chatbot
 
+![ingrai demo](demo_files/demo_video.mp4)
+
 A Streamlit-based chatbot with persistent memory that uses tools to keep track
 of your ingredients and preferences.
 
